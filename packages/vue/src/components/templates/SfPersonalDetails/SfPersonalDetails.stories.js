@@ -8,52 +8,52 @@ export default {
     cssprops: {
       "heading-padding": {
         value: "var(--spacer-xl) 0 var(--spacer-base)",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "heading-title-font": {
         value: "",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "font-weight--bold": {
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "h3-font-size": {
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "font-weight--semibold": {
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "button-width": {
         value: "25rem",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "characteristic-description-font": {
         value: "",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "font-size--base": {
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "input-padding": {
         value: "var(--spacer-sm) 0 var(--spacer-2xs) 0",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "checkbox-font": {
         value: "",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "font-family--primary": {
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
     },
@@ -150,7 +150,7 @@ export default {
       },
       defaultValue: "sf-fade",
       description:
-        "Transition for input that creates password for account. Could be one of [the default ones](https://docs.storefrontui.io/?path=/docs/utilities-transitions-docs--page).",
+        "Transition for input that creates password for account. Could be one of [the default ones](https://docs.storefrontui.io/v1/?path=/docs/utilities-transitions-docs--page).",
     },
     createAccountCheckboxLabel: {
       control: "text",

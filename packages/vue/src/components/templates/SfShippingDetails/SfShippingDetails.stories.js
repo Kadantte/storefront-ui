@@ -9,32 +9,32 @@ export default {
     cssprops: {
       "button-background": {
         value: "",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "button-color": {
         value: "",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "tabs-content-border-width": {
         value: "0",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "tabs-title-display": {
         value: "",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "tabs-content-padding": {
         value: "0",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "button-width": {
         value: "",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
     },
@@ -83,7 +83,7 @@ export default {
       },
       defaultValue: "sf-fade",
       description:
-        "Sets transition name. Could be one of [the default ones](https://docs.storefrontui.io/?path=/docs/utilities-transitions-docs--page).",
+        "Sets transition name. Could be one of [the default ones](https://docs.storefrontui.io/v1/?path=/docs/utilities-transitions-docs--page).",
     },
     changeAddressDescription: {
       control: "text",

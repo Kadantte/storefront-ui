@@ -46,37 +46,37 @@ export default {
       "bottom-modal-title-text-align": { value: "center", control: "text" },
       "characteristic-description-font": {
         value: "",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "list-item-margin": {
         value: "0 var(--spacer-sm)",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "button-text-transform": {
         value: "capitalize",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "heading-title-font": {
         value: "",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "button-display": {
         value: "",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "button-background": {
         value: "var(--_c-light-primary)",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
       "button-color": {
         value: "var(--c-text-muted)",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
     },
@@ -97,7 +97,7 @@ export default {
       },
       defaultValue: "",
       description:
-        "Transition effect on opening modal. Could be one of [the default ones](https://docs.storefrontui.io/?path=/docs/utilities-transitions-docs--page).",
+        "Transition effect on opening modal. Could be one of [the default ones](https://docs.storefrontui.io/v1/?path=/docs/utilities-transitions-docs--page).",
     },
     title: {
       control: "text",

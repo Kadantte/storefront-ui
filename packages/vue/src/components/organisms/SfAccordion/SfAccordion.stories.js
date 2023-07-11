@@ -106,7 +106,7 @@ export default {
       "accordion-item-chevron-display": { value: "none", control: "text" },
       "chevron-color": {
         value: "",
-        description: "Overridden other component's CSS variable",
+        description: "Overrides other component's CSS variable",
         control: "text",
       },
     },
@@ -161,7 +161,7 @@ export default {
       },
       defaultValue: "",
       description:
-        "Overlay transition effect. Could be one of [the default ones](https://docs.storefrontui.io/?path=/docs/utilities-transitions-docs--page).",
+        "Overlay transition effect. Could be one of [the default ones](https://docs.storefrontui.io/v1/?path=/docs/utilities-transitions-docs--page).",
     },
     showChevron: {
       control: "boolean",
